@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Infinite Campus Grade Hider
 // @namespace    http://tampermonkey.net
-// @version      0.1.0
+// @version      0.1.1
 // @description  Hides grades on Infinite Campus until you click to reveal them.
 // @match        https://*.infinitecampus.org/*
 // @match        https://*.infinitecampus.com/*
