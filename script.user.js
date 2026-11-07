@@ -8,6 +8,8 @@
 // @include      https://campus.*.k12.*.us/*
 // @run-at       document-idle
 // @grant        none
+// @updateURL    https://github.com/kamishiro-624/inf-campus-grade-hider/raw/refs/heads/master/script.user.js
+// @downloadURL  https://github.com/kamishiro-624/inf-campus-grade-hider/raw/refs/heads/master/script.user.js
 // ==/UserScript==
 
 function waitForElement(selector, { text, timeout = 0 } = {}) {
